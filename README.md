@@ -5,7 +5,10 @@
 ## Important Notice ⚠️
 
 **Do not run without the SVG or JS files. It will not work, don't even try.**
-here the preview deployment just so you can see the game, https://do-not-dusturb.github.io/bit-planes/ 
+
+here the preview deployment just so you can see the game 
+
+https://do-not-dusturb.github.io/bit-planes/ 
 
 ## Game Information
 
